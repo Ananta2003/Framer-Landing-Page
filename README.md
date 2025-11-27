@@ -1,36 +1,84 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🚀 Framer Landing Page – Flutter-Inspired Modern UI Experience
 
-## Getting Started
+A sleek and high-performance landing page built with Next.js, Framer Motion, and Tailwind CSS, inspired by the smooth animations and clean visual language of Flutter’s design philosophy.
 
-First, run the development server:
+This project focuses on delivering a pixel-perfect, mobile-responsive, and animation-rich landing experience that feels fast, fluid, and delightful across all devices.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+✨ Key Features
+🎨 Flutter-Inspired Design
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Smooth transitions and micro-interactions
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Bold typography, soft shadows, and clean spacing
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Components with a refined, polished feel
 
-## Learn More
+⚡ Framer Motion Animations
 
-To learn more about Next.js, take a look at the following resources:
+Hero section motion reveal
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Button and icon interactions
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Scroll-based animations
 
-## Deploy on Vercel
+Fluid fade, slide, and scale effects
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🧩 Reusable UI Components
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Responsive navbar
+
+Hero banner
+
+Feature cards
+
+CTA section
+
+Footer with social links
+
+📱 Fully Responsive
+
+Looks perfect on:
+
+Desktop
+
+Tablet
+
+Mobile
+
+with dynamic layout adjustments using Tailwind.
+
+🏎️ Optimized for Performance
+
+Next.js routing
+
+Image optimization
+
+Minified animations
+
+Layout shift prevention (CLS-friendly)
+
+🛠 Tech Stack
+
+Next.js 14
+
+Tailwind CSS
+
+Framer Motion
+
+TypeScript (optional)
+
+Vercel Deployment
+
+🎯 Purpose
+
+This project is built as a UI/UX showcase to demonstrate:
+
+Modern landing page architecture
+
+Professional frontend skills
+
+Animation design thinking
+
+Component reusability
+
+Perfect for portfolios, SaaS websites, product introductions, agency pages, and more.
